@@ -1,0 +1,33 @@
+/* h1 customization */
+h1 {
+  font font-family: Verdana;
+  font-weight: normal;
+  color: white;
+  font-size: 50px;
+}
+
+/* h5 customization */
+h5 {
+color: Aquamarine;
+font-size: 16px;
+}
+
+/* h2 customization */
+h2 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+/* h3 customization */
+h3 {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+.footer p {
+  text-align: right;
+  color: Gray;
+}
